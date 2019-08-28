@@ -1,0 +1,3 @@
+Para la partida numero 1 el puntaje es: 50
+Para la partida numero 2 el puntaje es: -30
+El mayor puntaje fue el de la partida 1 con un puntaje de : 50

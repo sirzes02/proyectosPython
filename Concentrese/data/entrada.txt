@@ -1,0 +1,13 @@
+6
+./imagenes/a.png
+a
+./imagenes/a.png
+a
+./imagenes/b.png
+b
+./imagenes/b.png
+b
+./imagenes/c.png
+c
+./imagenes/c.png
+c

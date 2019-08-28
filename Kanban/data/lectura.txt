@@ -1,0 +1,5 @@
+Desarrollo de interfaz|Por hacer|Normal
+Desarrollo de mundo|En curso|Importante
+Desarrollo de pruebas unitarias|Finalizada|Importante
+Desarrollo de extension|Por hacer|Urgente
+Probar nuevo lenguaje|En curso|Normal
